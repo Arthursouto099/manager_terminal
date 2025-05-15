@@ -9,5 +9,10 @@
   "author": "",
   "type": "module",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "readline-sync": "^1.4.10"
+  }
 }
